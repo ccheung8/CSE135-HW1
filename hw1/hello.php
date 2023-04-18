@@ -6,7 +6,7 @@
     <title>Hello PHP</title>
 </head>
 <body>
-    <h1>PHP Lives in ur mother!</h1>
+    <h1>PHP Lives!</h1>
     <?php
       phpinfo();
      ?>
