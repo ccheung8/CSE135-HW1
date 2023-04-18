@@ -1,0 +1,2 @@
+#!/bin/sh
+git --work-tree=/var/www/colbyjack.co/public_html --git-dir=/var/repo/CSE135-HW1.git checkout -f
